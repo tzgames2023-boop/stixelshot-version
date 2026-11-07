@@ -1,0 +1,1 @@
+# stixelshot-version
